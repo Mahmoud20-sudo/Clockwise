@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "868615500959",
+    "project_id": "nit-ooops",
+    "storage_bucket": "nit-ooops.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868615500959:android:8e0a2744e7b4b7061a1eaa",
+        "android_client_info": {
+          "package_name": "org.innovatec.clockwise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868615500959-v8r29h014qe9u0gquogm93ootk8p42qh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.innovatec.clockwise",
+            "certificate_hash": "b113cac542bdec33a2390d78518e5fdfc6709227"
+          }
+        },
+        {
+          "client_id": "868615500959-jcnm4lrufsjtcpoil19lmjstru49b0bq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe7zpaE-vUR32lEhjXh35svWDkAWFwl7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868615500959-jcnm4lrufsjtcpoil19lmjstru49b0bq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
